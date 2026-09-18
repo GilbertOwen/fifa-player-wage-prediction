@@ -1,0 +1,6 @@
+# the web app has its own repository
+app/
+
+*.stackdump
+.ipynb_checkpoints/
+__pycache__/
