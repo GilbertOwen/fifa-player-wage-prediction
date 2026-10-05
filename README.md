@@ -57,4 +57,4 @@ Then open `ml.ipynb` and run all cells.
 
 `fifa21_cleaned.csv` has 18,978 players. It was cleaned from raw FIFA 21 player data scraped from sofifa.com, in a separate data cleaning project.
 
-A web app built on this model lives in a separate repository.
+A web app built on this model lives in a separate repository, [fifa-wage-prediction-app](https://github.com/GilbertOwen/fifa-wage-prediction-app). Try it live: [fifa-wage-prediction.streamlit.app](https://fifa-wage-prediction.streamlit.app/)
